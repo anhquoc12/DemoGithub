@@ -9,5 +9,5 @@ package com.mycompany.test01;
  * @author admin
  */
 public class B {
-    int a = -1000;
+    int a = 1000;
 }
